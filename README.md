@@ -52,9 +52,4 @@ Ele assume que **todas as variáveis são independentes entre si**, o que rarame
 🔹 Ampliar o conjunto de dados para maior generalização  
 
 ---
-
-## 📄 **Licença**
-Este projeto é de **uso livre** para estudos e melhorias. 😊  
-
----
 🚀 **Desenvolvido por [Pedro Borges Alves](https://github.com/Pedrobrgss)**  
